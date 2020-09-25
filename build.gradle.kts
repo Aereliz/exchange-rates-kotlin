@@ -1,7 +1,7 @@
 plugins {
     kotlin("multiplatform") version "1.4.0"
 }
-group = "me.vic"
+group = "org.klimin.exchangerates"
 version = "1.0-SNAPSHOT"
 
 repositories {
